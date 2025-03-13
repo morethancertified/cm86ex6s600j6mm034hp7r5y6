@@ -1,1 +1,2 @@
-# cm86ex6s600j6mm034hp7r5y6
+# Variable Definitions Lab
+
